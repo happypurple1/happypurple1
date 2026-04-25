@@ -1,4 +1,4 @@
-# Cynthia Goforth
+![Cynthia Goforth — Online Mathematics Instructor](readme-banner.gif)
 
 **Online Mathematics Instructor & Curriculum Builder** — Amarillo, Texas
 
